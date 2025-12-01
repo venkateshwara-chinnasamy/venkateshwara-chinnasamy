@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkateshwara</h1>
-<h3 align="center">A passionate backend developer(Golang) from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkat-3259&label=Profile%20views&color=0e75b6&style=flat" alt="venkat-3259" /> </p>
@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **backend development and automation**
 
-- 💬 Ask me about **Golang, psql, nats, docker, redis, etc.,**
+- 💬 Ask me about **Golang, psql, nats, docker, redis, typescript, vibe coding.,**
 
 - 📫 How to reach me **venkateshwarachinnasamy@gmail.com**
 
